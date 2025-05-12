@@ -65,10 +65,10 @@ body {
   background-color: #3b3b4f;
 }
 
-#window-2 {
+.window-2 {
   position: absolute;
   top: 300px;
-  left: 1200px;
+  left: 1180px;
   border-radius: 0%;
   
   width: 30px;
@@ -109,7 +109,7 @@ body {
   border:solid black;
 }
 
-#house-door-knob{
+.house-door-knob{
   position:absolute;
   left:1120px;
   top:395px;
@@ -122,16 +122,8 @@ body {
 
 
 
-#house-cloud-left div {
- width: 120px;
-  height: 60px;
-  background: #fff;
-  border-radius: 60px;
-  position: relative;
-  box-shadow: 60px 0 #fff, 30px -30px #fff, 90px -10px #fff;
-}
 
-#house-cloud-right div {
+.house-cloud-right div {
   width: 120px;
   height: 60px;
   background: #fff;
@@ -142,26 +134,26 @@ body {
 
 
 
-#house-cloud-right-top {
+.house-cloud-right-top {
   position: absolute;
   top: 20px;
   left: 1209px;
   transform: rotate(10deg);
 }
-#house-cloud-right-middle {
+.house-cloud-right-middle {
   position: absolute;
   top: 17px;
   left: 609px;
   transform: rotate(-3deg);
 }
 
-#house-cloud-right-bottom {
+.house-cloud-right-bottom {
   position: absolute;
   top: 54px;
   left: 900px;
   transform: rotate(3deg);
 }
-#house-yard {
+.house-yard {
 
    position: absolute;
   right: 0;
